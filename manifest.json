@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "MangaLaw",
+  "version": "1.0",
+  "description": "強制法律厳守ツール",
+  "permissions": ["webNavigation"],
+  "host_permissions": ["https://api.kakikou.app/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "images/icon_16.png",
+    "32": "images/icon_32.png",
+    "128": "images/icon_128.png"
+  }
+}
