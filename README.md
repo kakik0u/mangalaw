@@ -4,3 +4,5 @@
 Extensions created with the philosophy of never allowing illegal sites.
 
 K-romeに同梱されています。
+
+自分のブラウザに追加するときはbackground.jsの"ここにURLをドロップ"の部分にブロックリストのURLをJSON形式で指定してください。
